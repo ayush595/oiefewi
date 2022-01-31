@@ -1,0 +1,24 @@
+body
+{
+    letter-spacing: 5px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    background-image: url("msmm.jpg");
+    background-size: cover;
+
+}
+#identity
+{
+    box-shadow: 4px 4px 12px darkgreen;
+    font-size: 28px;
+}
+#dot
+{
+    font-size: 11px;
+    box-shadow: 4px 4px 12px yellow;
+}
+canvas
+{
+    background-color: yellowgreen;
+    margin-top: 90px;
+
+}
